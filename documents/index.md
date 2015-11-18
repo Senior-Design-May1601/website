@@ -25,3 +25,6 @@ title: Documents
 * [Week 6](/assets/Week6.pdf)
 * [Week 7](/assets/Week7.pdf)
 * [Week 8](/assets/Week8.pdf)
+* [Week 9](/assets/Week9.pdf)
+* [Week 10](/assets/Week10.pdf)
+
