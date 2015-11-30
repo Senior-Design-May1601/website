@@ -9,8 +9,8 @@ permalink:        pretty
 title:            May1601
 tagline:          'A pluggable industrial honeypot'
 description:      'A pluggable industrial control system honeypot, with automated build and deployment. Written in Go.'
-url:              http://may1601.sd.ece.iastate.edu
-baseurl:          http://may1601.sd.ece.iastate.edu/www
+url:              http://May1601.sd.ece.iastate.edu
+baseurl:          http://May1601.sd.ece.iastate.edu/www
 
 github:
   repo:           https://github.com/Senior-Design-May1601
