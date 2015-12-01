@@ -27,10 +27,6 @@ title: Documents
 * [Week 8](/assets/Week8.pdf)
 * [Week 9](/assets/Week9.pdf)
 * [Week 10](/assets/Week10.pdf)
-<<<<<<< HEAD
 * [Week 11](/assets/Week11.pdf)
 * [Week 12](/assets/Week12.pdf
 )
-=======
-
->>>>>>> master
