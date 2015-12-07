@@ -6,7 +6,7 @@ title: Documents
 
 ## Project Plan
 
-*Coming Soon*
+* [Final Presentation - Fall](/assets/FinalPresentation-Fall.pdf)
 
 
 ## Design Document
