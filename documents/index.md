@@ -4,14 +4,18 @@ title: Documents
 ---
 
 
+## Final Presentation
+
+* [Project Plan - Fall](/assets/fall_presentation.pdf)
+
 ## Project Plan
 
-* [Final Presentation - Fall](/assets/FinalPresentation-Fall.pdf)
+* [Project Plan - Fall](/assets/fall_project_plan.pdf)
 
 
 ## Design Document
 
-*Coming Soon*
+* [Design Doc - Fall](/assets/fall_design_doc.pdf)
 
 
 ## Weekly Status Reports
