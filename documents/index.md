@@ -4,18 +4,17 @@ title: Documents
 ---
 
 
-## Final Presentation
+## Final Presentation(s)
 
-* [Project Plan - Fall](/assets/fall_presentation.pdf)
+* [Final Report](/assets/May1601-Final-Report.pdf)
+* [Final Presentation](/assets/May1601-Final-Presentation.pdf)
+* [Final Poster](/assets/May1601-Final-Poster.pdf)
 
-## Project Plan
+## Spring Documents
 
+* [Presentation - Fall](/assets/fall_presentation.pdf)
 * [Project Plan - Fall](/assets/fall_project_plan.pdf)
-
-## Design Document
-
 * [Design Doc - Fall](/assets/fall_design_doc.pdf)
-
 
 ## Weekly Status Reports
 
@@ -44,3 +43,7 @@ title: Documents
 * [Week 20](/assets/Week20.pdf)
 * [Week 21](/assets/Week21.pdf)
 * [Week 22](/assets/Week22.pdf)
+* [Week 23](/assets/Week23.pdf)
+* [Week 24](/assets/Week24.pdf)
+* [Week 25](/assets/Week25.pdf)
+* [Week 26](/assets/Week26.pdf)
